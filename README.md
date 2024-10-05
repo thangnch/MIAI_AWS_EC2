@@ -1,7 +1,7 @@
 # MIAI_AWS_EC2
 Demo of deploying ML Model on AWS EC2
 
-Video link:  https://youtu.be/_52-kz08LvU
+Video link: [ https://youtu.be/_52-kz08LvU](https://youtu.be/DU02_9v9yn8)
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
